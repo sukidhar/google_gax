@@ -22,7 +22,7 @@ reintroduce five CVEs.
 Consumed as a git dependency with `override: true`:
 
 ```elixir
-{:google_gax, github: "sukidhar/google_gax", tag: "v0.4.0-enlighten.1", override: true}
+{:google_gax, github: "sukidhar/google_gax", tag: "v0.4.0-enlighten.2", override: true}
 ```
 
 Licensed under Apache-2.0, same as upstream (see LICENSE).
